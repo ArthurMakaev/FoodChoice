@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">"FoodChoice   "</string>
+    <string name="food_choice_start">Please click the button and the app will tell you what to eat today.</string>
+    <string name="button">Find out!!!</string>
+
 </resources>
+
