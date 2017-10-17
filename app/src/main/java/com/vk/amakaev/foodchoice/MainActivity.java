@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
             "Fondue",
             "Meatball",
             "Chop",
+            "Cupcake"
             "Foie gras",
     };
 
